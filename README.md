@@ -1,1 +1,2 @@
-# .github
+# MorijellyfishのOrganiation
+Morijellyfishしか入ってないOrganizationです
